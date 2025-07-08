@@ -8,6 +8,7 @@ We welcome all kinds of contributions. If you discover relevant new work, please
 ## Contents
 - [Papers by Years](#papers-by-year)
     - [2025](#2025)
+        - [ICCV 2025](#iccv-2025)
         - [CVPR 2025](#cvpr-2025)
     - [2024](#2024)
         - [SIGGRAPH Asia 2024](#siggraph-asia-2024)
@@ -21,8 +22,9 @@ We welcome all kinds of contributions. If you discover relevant new work, please
 ## Papers by Years
 
 ### 2025
-- [arxiv 2025.03] **Trajectory Crafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models.** Yu *et al.*. [[paper]](https://arxiv.org/abs/2503.05638)[[Project Page]](https://trajectorycrafter.github.io/)
-- [arxiv 2025.03] **Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models.** Fortes *et al.* [[Paper]](https://arxiv.org/abs/2503.08434)[[Project Page]](https://atfortes.github.io/projects/bokeh-diffusion/)[[Code]](https://github.com/atfortes/BokehDiffusion) 
+- [arxiv 2025.03] **Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models.** Fortes *et al.* [[Paper]](https://arxiv.org/abs/2503.08434)[[Project Page]](https://atfortes.github.io/projects/bokeh-diffusion/)[[Code]](https://github.com/atfortes/BokehDiffusion)
+#### ICCV 2025
+- [ICCV 2025] **Trajectory Crafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models.** Yu *et al.*. [[paper]](https://arxiv.org/abs/2503.05638)[[Project Page]](https://trajectorycrafter.github.io/)[[Demo]](https://huggingface.co/spaces/Doubiiu/TrajectoryCrafter)
 #### CVPR 2025
 - [CVPR 2025] **Towards Smart Point-and-Shoot Photography.** Li *et al.* [[paper]](https://arxiv.org/abs/2505.03638)
 - [CVPR 2025] **The Photographer's Eye: Teaching Multimodal Large Language Models to See, Think and Critique Like Photographers.** Qi *et al.*
@@ -57,7 +59,7 @@ We welcome all kinds of contributions. If you discover relevant new work, please
 
 ### Camera Trajectory / Pose
 
-- [arxiv 2025.03] **Trajectory Crafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models.** Yu *et al.*. [[paper]](https://arxiv.org/abs/2503.05638)[[Project Page]](https://trajectorycrafter.github.io/)
+- [ICCV 2025] **Trajectory Crafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models.** Yu *et al.*. [[paper]](https://arxiv.org/abs/2503.05638)[[Project Page]](https://trajectorycrafter.github.io/)[[Demo]](https://huggingface.co/spaces/Doubiiu/TrajectoryCrafter)
 - [CVPR 2025] **Towards Smart Point-and-Shoot Photography.** Li *et al.* [[paper]](https://arxiv.org/abs/2505.03638)
 - [CVPR 2025] **Motion Prompting: Controlling Video Generation with Motion Trajectories.** Geng *et al.* [[Paper]](https://arxiv.org/abs/2412.02700)[[Project Page]](https://motion-prompting.github.io/)
 - [SIGGRAPH Asia 2024] **Customizing Text-to-Image Diffusion with Camera Viewpoint Control.** Kumari *et al.* [[Paper]](http://arxiv.org/abs/2404.12333) [[Project Page]](https://customdiffusion360.github.io/)[[Demo]](https://huggingface.co/spaces/customdiffusion360/customdiffusion360)
